@@ -1,0 +1,12 @@
+export { default as SettingsIcon } from './Icons/Settings';
+export { default as WalletIcon } from './Icons/Wallet';
+export { default as SearchIcon } from './Icons/Search';
+export { default as FilterIcon } from './Icons/Filter';
+export { default as AvaxIcon } from './Icons/Avax';
+export { default as SolanaIcon } from './Icons/Solana';
+export { default as EthIcon } from './Icons/Eth';
+export { default as PolygonIcon } from './Icons/Polygon';
+export { default as BscIcon } from './Icons/Bsc';
+export { default as HeartIcon } from './Icons/Heart';
+export { default as ShareIcon } from './Icons/Share';
+export { default as Connect } from './Icons/Connect';
