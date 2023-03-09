@@ -42,38 +42,6 @@ ChainCross will be completely decentralized and will use wormhole messaging as c
 9. Submit VAA on source chain and collateral will be released for user.
 
 
-
-
-
-Our contracts are divided into a **Manager** contract and various **Index** contracts.
-
-### Manager Contract
-
-The manager contract is responsible for a couple of core actions:
-
-1. Keeping track of all index funds created through Indices
-2. Letting users deploy their own index funds
-
-   2.1 This action creates a subaccount, and deploys an **Index** contract to that subaccount.
-
-The manager contract is currently deployed to `indices-finance.testnet` on the NEAR Testnet.
-
-### Index Contract
-
-The index contract is responsible for the meat of this protocol:
-
-1. Buy Index
-2. Redeem Index
-
-There are various index contracts deployed to the NEAR testnet. These were all automatically deployed through the manager on various subaccounts:
-
-1. `parasref.indices-finance.testnet`
-2. `rftbanana.indices-finance.testnet`
-3. `stablecoins.indices-finance.testnet`
-4. `ethpulse.indices-finance.testnet`
-5. `demoindex.indices-finance.testnet`
-6. Your index here???
-
 ## Future Plan
 
 As good as this is, there are still some things that need to be done to achieve many things
