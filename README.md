@@ -4,9 +4,6 @@ We are building a cross-chain NFT loaning platform that enables NFT holders to u
 
 ![](https://postimg.cc/Q95dyHgt)
 
-Here is Figma link
-![](https://www.figma.com/file/k8WvzrrWXqvXCOzOJSzghk/Lendup.-Finance?node-id=100-6892&t=PU1qW1HwNf41ffTB-0)
-
 ## Flow
 
 ![](https://i.postimg.cc/X7mpyF48/Screenshot-2023-03-09-at-2-50-21-AM.png)
