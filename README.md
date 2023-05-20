@@ -11,11 +11,7 @@ Here is Figma link
 
 ![](https://i.postimg.cc/X7mpyF48/Screenshot-2023-03-09-at-2-50-21-AM.png)
 ![](https://i.postimg.cc/5040MSSx/Screenshot-2023-03-09-at-2-50-28-AM.png)
-## Video
 
-Watch this video
-
-![](https://vimeo.com/806116553)
 
 ## Why?
 
